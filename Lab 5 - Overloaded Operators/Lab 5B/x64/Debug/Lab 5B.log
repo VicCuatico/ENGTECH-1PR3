@@ -1,0 +1,7 @@
+﻿  Dog.cpp
+C:\Users\victo\OneDrive - McMaster University\SCHOOL\FIRST YEAR (1)\ENGTECH 1PR3\LABS\Lab 5 - Overloaded Operators\Lab 5B\Dog.cpp(27,7): error C2374: 'baby': redefinition; multiple initialization
+  C:\Users\victo\OneDrive - McMaster University\SCHOOL\FIRST YEAR (1)\ENGTECH 1PR3\LABS\Lab 5 - Overloaded Operators\Lab 5B\Dog.cpp(26,7):
+  see declaration of 'baby'
+  
+  Lab 5B.cpp
+  Generating Code...
